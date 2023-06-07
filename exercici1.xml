@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+  <Parent model="Model de bambes 1">
+    <Child>Característiques de les bambes 1</Child>
+    <Child>Característiques de les bambes 2</Child>
+    <Child>Característiques de les bambes 3</Child>
+    <Child>Característiques de les bambes 4</Child>
+    <Child>Característiques de les bambes 5</Child>
+  </Parent>
+  <Parent model="Model de bambes 2">
+    <Child>Característiques de les bambes 1</Child>
+    <Child>Característiques de les bambes 2</Child>
+    <Child>Característiques de les bambes 3</Child>
+    <Child>Característiques de les bambes 4</Child>
+    <Child>Característiques de les bambes 5</Child>
+  </Parent>
+  <Parent model="Model de bambes 3">
+    <Child>Característiques de les bambes 1</Child>
+    <Child>Característiques de les bambes 2</Child>
+    <Child>Característiques de les bambes 3</Child>
+    <Child>Característiques de les bambes 4</Child>
+    <Child>Característiques de les bambes 5</Child>
+  </Parent>
+  <Parent model="Model de bambes 4">
+    <Child>Característiques de les bambes 1</Child>
+    <Child>Característiques de les bambes 2</Child>
+    <Child>Característiques de les bambes 3</Child>
+    <Child>Característiques de les bambes 4</Child>
+    <Child>Característiques de les bambes 5</Child>
+  </Parent>
+</Root>
